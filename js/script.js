@@ -1,8 +1,8 @@
-xmax = 40,
+xmax = 80,
 ymax = 30,
-fireLevel = 0.5,
+fireLevel = 0.35,
 colors = ['#000','#100','#200','#300','#400','#500','#600','#a30','#e50','#f60','#a00','#b00','#c00','#d00','#e00','#f00'],
-everyXFrame = 3,
+everyXFrame = 2,
 globalcounter = 0;
 
 spotsInAll = xmax * ymax;
